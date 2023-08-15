@@ -1,2 +1,2 @@
 # ito.gov.ir-Mirror
-Mirror of "ito.gov.ir"
+This is a mirror of "ito.gov.ir".
